@@ -1,4 +1,4 @@
-const QTD = 2;
+const QTD = 3;
 const LINHAS = 3;
 const COLUNAS = 3;
 
@@ -15,6 +15,7 @@ for (let qtd = 0; qtd < QTD; qtd++) {
     }
     matriz.push(arrayQtd)
 }
+
 
 
 console.log(matriz);
